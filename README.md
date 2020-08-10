@@ -44,4 +44,11 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
   year={2020},
   organization={IEEE}
 }
+
+@article{xiang2020attribute,
+  title={Attribute analysis with synthetic dataset for person re-identification},
+  author={Xiang, Suncheng and Fu, Yuzhuo and You, Guanjie and Liu, Ting},
+  journal={arXiv preprint arXiv:2006.07139},
+  year={2020}
+}
 ```
