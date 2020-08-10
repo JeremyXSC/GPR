@@ -32,3 +32,16 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
 | [GPR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102822) | 754 | 443,352    | 12          |   7           |      8    | 
 | GPR+ | 808 | 475,104    | 12          | 7              |     7       | 
 </center>
+
+
+## Citation
+```
+@inproceedings{xiang2020unsupervised,
+  title={Unsupervised Domain Adaptation Through Synthesis For Person Re-Identification},
+  author={Xiang, Suncheng and Fu, Yuzhuo and You, Guanjie and Liu, Ting},
+  booktitle={ICME},
+  pages={1--6},
+  year={2020},
+  organization={IEEE}
+}
+```
