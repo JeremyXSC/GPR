@@ -1,1 +1,1 @@
-# GPR
+# GPR+: A Large-Scale Synthetic Dataset for Person Re-identification
