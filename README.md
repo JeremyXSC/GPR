@@ -11,5 +11,24 @@
 <img src='images/GPR.png'/>
 
 <div align="center">
-    <img src="images/GPR.png">
+    <img src="images/logo.png">
 </div> 
+
+## Dataset 
+### Some Mainstream Datasets for Person Re-Identification
+For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](https://JeremyXSC.github.io/GPR/)) :
+
+<center>
+
+| dataset      | IDs     | boxs | cams | weathers | illumination | 
+|--------------|---------|------|------|----------|--------------|
+| [Market-1501](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410490) | 1,501 | 32,668    | 6      |   -             | -         | 
+| [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) | 1,404 | 36,411    | 8          | -              | -         | 
+| [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421) | 1,467 | 14,096    | 2          | -              | -         | 
+|--------------|---------|------|------|----------|--------------|
+| [SOMAset](https://arxiv.org/pdf/1701.03153.pdf) | 50 | 100,000    | 250     |   -             | -         | 
+| [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 | 1,680,000    | 100          | -              |     140     | 
+| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,467 | 14,096    | 1,266          | -              | -         | 
+| [GPR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102822) | 754 | 443,352    | 12          |   7           |      8    | 
+| GPR+ | 808 | 475,104    | 12          | 7              |     7       | 
+</center>
