@@ -35,6 +35,7 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
 
 
 ## Citation
+If you use original GPR dataset for your research, please cite our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102822).
 ```
 @inproceedings{xiang2020unsupervised,
   title={Unsupervised Domain Adaptation Through Synthesis For Person Re-Identification},
@@ -44,7 +45,10 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
   year={2020},
   organization={IEEE}
 }
+```
 
+If you use upgraded GPR+ dataset for your research, please cite our [paper](https://arxiv.org/pdf/2006.07139.pdf).
+```
 @article{xiang2020attribute,
   title={Attribute analysis with synthetic dataset for person re-identification},
   author={Xiang, Suncheng and Fu, Yuzhuo and You, Guanjie and Liu, Ting},
@@ -52,3 +56,5 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
   year={2020}
 }
 ```
+### Acknowledgments
+We sincerely thank the outstanding annotation team for their excellent work. This work is partially supported by the National Natural Science Foundation of China under Project(Grant No.61977045), the National Defense Pre-Research Foundation of China(Grant No.513110501) and SJTU-SMARCHIT Joint Laboratory of Smart Building.
