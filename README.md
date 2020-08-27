@@ -57,4 +57,4 @@ If you use upgraded GPR+ dataset for your research, please cite our [paper](http
 }
 ```
 ### Acknowledgments
-We sincerely thank the outstanding annotation team for their excellent work. This work is partially supported by the National Natural Science Foundation of China under Project(Grant No.61977045), the National Defense Pre-Research Foundation of China(Grant No.513110501) and SJTU-SMARCHIT Joint Laboratory of Smart Building.
+We sincerely thank the outstanding annotation team for their excellent work. This work is partially supported by the National Natural Science Foundation of China under Project(Grant No.61977045) and SJTU-SMARCHIT Joint Laboratory of Smart Building.
