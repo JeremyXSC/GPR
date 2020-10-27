@@ -47,12 +47,12 @@ If you use original GPR dataset for your research, please cite our [paper](https
 }
 ```
 
-If you use upgraded GPR+ dataset for your research, please cite our [paper](https://arxiv.org/pdf/2006.07139.pdf).
+If you use upgraded GPR+ dataset for your research, please cite our [paper](https://arxiv.org/pdf/2010.08145.pdf).
 ```
-@article{xiang2020attribute,
-  title={Attribute analysis with synthetic dataset for person re-identification},
+@article{xiang2020taking,
+  title={Taking A Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification},
   author={Xiang, Suncheng and Fu, Yuzhuo and You, Guanjie and Liu, Ting},
-  journal={arXiv preprint arXiv:2006.07139},
+  journal={arXiv preprint arXiv:2010.08145},
   year={2020}
 }
 ```
