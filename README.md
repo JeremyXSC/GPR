@@ -47,13 +47,15 @@ If you use original GPR dataset for your research, please cite our [paper](https
 }
 ```
 
-If you use upgraded GPR+ dataset for your research, please cite our [paper](https://arxiv.org/pdf/2010.08145.pdf).
+If you use upgraded GPR+ dataset for your research, please cite our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413757).
 ```
-@article{xiang2020taking,
-  title={Taking A Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification},
+@inproceedings{xiang2021taking,
+  title={Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification},
   author={Xiang, Suncheng and Fu, Yuzhuo and You, Guanjie and Liu, Ting},
-  journal={arXiv preprint arXiv:2010.08145},
-  year={2020}
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={3765--3769},
+  year={2021},
+  organization={IEEE}
 }
 ```
 ### Acknowledgments
