@@ -28,7 +28,7 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
 |--------------|---------|------|------|----------|--------------|
 | [SOMAset](https://arxiv.org/pdf/1701.03153.pdf) | 50 | 100,000    | 250     |   -             | -         | 
 | [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 | 1,680,000    | 100          | -              |     140     | 
-| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,467 | 14,096    | 1,266          | -              | -         | 
+| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 | 273,456    | 36          | -              | -         | 
 | [GPR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102822) | 754 | 443,352    | 12          |   7           |      8    | 
 | [GPR+](https://arxiv.org/pdf/2010.08145.pdf) | 808 | 475,104    | 12          | 7              |     7       | 
 </center>
