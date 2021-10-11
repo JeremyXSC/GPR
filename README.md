@@ -60,3 +60,6 @@ If you use upgraded GPR+ dataset for your research, please cite our [paper](http
 ```
 ### Acknowledgments
 We sincerely thank the outstanding annotation team for their excellent work. This work is partially supported by the National Natural Science Foundation of China under Project(Grant No.61977045) and SJTU-SMARCHIT Joint Laboratory of Smart Building.
+
+For further questions and suggestions about our datasets and methods, please feel free to contact Suncheng Xiang:
+xiangsuncheng17@sjtu.edu.cn
