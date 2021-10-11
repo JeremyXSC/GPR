@@ -21,7 +21,7 @@ For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](http
 <center>
 
 | dataset      | IDs     | boxs | cams | weathers | illumination | 
-|--------------|---------|------|------|----------|--------------|
+|--------------|:-:|:-:|:-:|:-:|:-:|
 | [Market-1501](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410490) | 1,501 | 32,668    | 6      |   -             | -         | 
 | [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) | 1,404 | 36,411    | 8          | -              | -         | 
 | [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421) | 1,467 | 14,096    | 2          | -              | -         | 
