@@ -1,3 +1,7 @@
+[![License: GPL3.0](https://img.shields.io/badge/License-GPL3.0-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+![Python](https://img.shields.io/badge/python-green.svg)
+
+
 # GPR+: A Large-Scale Synthetic Dataset for Person Re-identification
 
 ### [Project Page](https://JeremyXSC.github.io/GPR/) 
